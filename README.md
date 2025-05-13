@@ -6,8 +6,8 @@ Este é um projeto de **calculadora simples** desenvolvida utilizando **HTML**, 
 
 - HTML5
 - CSS
-- JavaScript 
-- 
+- JavaScript
+
 ## ✨ Funcionalidades
 
 - Soma
